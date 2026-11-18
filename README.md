@@ -1,7 +1,7 @@
 ## Hi, I'm Syed Mahmudul Huda 👋
 
 I build machine-learning tools for healthcare, with a focus on Alzheimer's
-and dementia. By day I run data and people operations behind AI training
+and dementia. By day I work in data and people operations for AI training
 data at **SuperAnnotate AI**.
 
 - 💼 **Workforce Experience Specialist** (Data and People Operations), SuperAnnotate AI, through Acme AI. Previously Data Quality Control Specialist on the same team.
