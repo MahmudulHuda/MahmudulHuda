@@ -1,8 +1,6 @@
 ## Hi, I'm Syed Mahmudul Huda 👋
 
-I build machine-learning tools for healthcare, with a focus on Alzheimer's
-and dementia. By day I work in data and people operations for AI training
-data at **SuperAnnotate AI**.
+**Quality Specialist in SuperAnnotate AI | Project Operations | Former IT solutions**
 
 - 💼 **Workforce Experience Specialist** (Data and People Operations), SuperAnnotate AI, through Acme AI. Previously Data Quality Control Specialist on the same team.
 - 🎓 **B.Sc. in Information and Communication Engineering**, Bangladesh University of Professionals, CGPA 3.75 / 4.00
