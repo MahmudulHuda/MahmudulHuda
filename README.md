@@ -1,13 +1,14 @@
 ## Hi, I'm Syed Mahmudul Huda 👋
 
-I work on the people and data side of AI at **SuperAnnotate AI**, and I build
-small machine-learning projects for healthcare.
+I build machine-learning tools for healthcare, with a focus on Alzheimer's
+and dementia. By day I run data and people operations behind AI training
+data at **SuperAnnotate AI**.
 
 - 💼 **Workforce Experience Specialist** (Data and People Operations), SuperAnnotate AI, through Acme AI. Previously Data Quality Control Specialist on the same team.
 - 🎓 **B.Sc. in Information and Communication Engineering**, Bangladesh University of Professionals, CGPA 3.75 / 4.00
 - 📄 **Publication:** [Federated Explainable AI-Based Alzheimer's Disease Prediction With Multimodal Data](https://doi.org/10.1109/ACCESS.2025.3547343), *IEEE Access*, 2025 (co-author)
 - 📍 Dhaka, Bangladesh
-- 📫 [shoron.huda@gmail.com](mailto:shoron.huda@gmail.com)
+- 📫 [shoron.huda@gmail.com](mailto:shoron.huda@gmail.com) · [ORCID 0009-0000-6116-1551](https://orcid.org/0009-0000-6116-1551)
 
 ### Featured project
 
